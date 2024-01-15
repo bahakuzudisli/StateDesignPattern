@@ -1,3 +1,7 @@
+/**
+ * img adında UML diagrama bak.
+ * readMe oku.
+ */
 public class Main {
     public static void main(String[] args) {
         Account account = new Account();
@@ -8,5 +12,6 @@ public class Main {
 
         account.WithdrawMoney();
         account.PayInterest();
+
     }
 }
